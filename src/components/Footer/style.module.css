@@ -1,0 +1,11 @@
+.footerControl {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    color: gray;
+}
+
+.profileHref {
+    color: gray;
+}

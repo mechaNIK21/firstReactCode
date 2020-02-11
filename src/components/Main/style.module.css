@@ -1,0 +1,51 @@
+
+.mainWindow {
+    color: white;
+    width: 360px;
+    margin: 0 auto;
+    box-shadow: 10px rgba(0,0,0,0.5);
+    text-align: center;
+    border-radius: 7px;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.profile {
+    background-color: #8cc8be;
+    padding: 20px 0 15px 0;
+}
+.profile hr {
+    width: 50%;
+    color: white;
+}
+
+
+.profile h1 {
+    color: white;
+    position: relative;
+    font-size: 25px;
+}
+
+.viewers {
+    color: #000;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.gitPhoto img  {
+    width: 25px;
+    position: absolute;
+    right: 15px;
+    bottom: 140px;
+
+}
+
+.countControl {
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

@@ -1,0 +1,12 @@
+.mainHeader {
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    padding: 0px;
+    font-size: 35px;
+    
+}
+
+
+.headControl {
+    opacity: 0.9;
+}

@@ -1,0 +1,9 @@
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    color: gray;
+    border-right: 1px solid gray;
+}
